@@ -12,4 +12,8 @@
 		<code>es_ES</code>
 		<name>Español</name>
 	</language>
+	<language>
+		<code>sv_SE</code>
+		<name>Svenska</name>
+	</language>	
 </PodcastGenerator>
